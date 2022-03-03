@@ -9,6 +9,7 @@
 
 4.퀴즈를 다풀면 맞춘갯수와 틀린갯수표시
 
+<img width="381" alt="스크린샷 2022-03-03 오후 9 16 24" src="https://user-images.githubusercontent.com/91593937/156563503-b0bc8f2a-1b9a-4fb0-9f54-5b3417473f26.png">
 
 이 유튜브 채널을 참고해서 제작한 앱입니다.
 
